@@ -1,0 +1,5 @@
+code/*.csv
+code/*.RData
+*.Rhistory
+data/*
+results/*

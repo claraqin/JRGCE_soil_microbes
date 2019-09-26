@@ -1,6 +1,6 @@
 # Qin et al. (2019), Journal of Ecology
 
-*Fire history and plant community composition outweigh decadal multi-factor global change as drivers of microbial composition in an annual grassland*
+Qin, C., Zhu, K., Chiariello, N. R., Field, C. B., & Peay, K. G. (2019). Fire history and plant community composition outweigh decadal multi‐factor global change as drivers of microbial composition in an annual grassland. *Journal of Ecology*, *00*, 1–15. doi:10.1111/1365-2745.13284.
 
 Manuscript accepted by *Journal of Ecology* on Aug. 28, 2019, and published online on Sept. 13, 2019 at https://doi.org/10.1111/1365-2745.13284.
 
